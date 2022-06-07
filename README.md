@@ -23,7 +23,7 @@
 * capital H and capital L go to the start and end of lines (I use this
 because it is semantic to the I and A keybindings for going to the start
 and end of a line)
-* You can use <\C-k\> and <\C-j\> in normal mode to move lines up and down.
+* You can use \<C-k\> and \<C-j\> in normal mode to move lines up and down.
 this is just a bit of an asethetic change because I am used to this in
 vscode
 * \<TAB\> is used for both autocompletion with COC, and for snippets and for
