@@ -33,7 +33,6 @@ vnoremap L $
 nmap <silent>gd <Plug>(coc-definition)
 nmap <silent> gr <Plug>(coc-references)
 nnoremap K :call CocActionAsync('doHover')<cr>
-au FileType java nnoremap <leader>io :CocCommand java.action.organizeImports<CR>
 nnoremap <leader>ff <CMD>Telescope find_files theme=ivy<CR>
 nnoremap  <leader>gg <cmd>Telescope live_grep theme=ivy<cr>
 nmap <C-k> ddkP
