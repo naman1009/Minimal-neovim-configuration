@@ -2,7 +2,11 @@
 
 ## Installation
 
+
 ### The most necessary step
+
+* put in your ~/.config/nvim folder on linux (I don't remember on windows
+so google it.) and rename it to init.vim
 
 * Install [vim-plug](https://github.com/junegunn/vim-plug)
 * Run :PlugInstall
